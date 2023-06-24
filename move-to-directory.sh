@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Create the target directory
-directory_name="negpod_id-q1"
+directory_name="0323-RW-SOFEN-8120120-13-q1"
 mkdir "$directory_name"
 
 # Move the files to the target directory
